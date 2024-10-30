@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "python.analysis.extraPaths": [
+        "./CHATBOT_API_OPENAI_VS"
+    ],
+    "liveServer.settings.port": 5501
+}

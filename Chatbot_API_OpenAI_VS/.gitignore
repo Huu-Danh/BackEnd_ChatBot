@@ -1,0 +1,4 @@
+# Ignore the .env file containing sensitive data
+.env
+
+.pyc
